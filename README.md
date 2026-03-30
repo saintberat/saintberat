@@ -1,16 +1,48 @@
-## Hi there 👋
+# yo, i'm berat 👋
 
-<!--
-**saintberat/saintberat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+software dev student.
+mostly into web stuff and a bit of cybersecurity.
+sometimes i build useful things, sometimes it's just random fun.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## stuff i made
+
+### 🎭 troll intro website
+
+not meant to be serious at all.
+just a fun interactive thing.
+
+---
+
+### 🔐 goodpass
+
+simple password strength checker.
+
+* doesn't store your password
+* doesn't send it anywhere
+* just does its job
+
+---
+
+### 🌐 site clarity checker
+
+drop a url, get a security score.
+
+* helps you figure out if a site is sketchy
+* simple scoring, nothing complicated
+
+---
+
+## about me
+
+* kinda into cybersecurity
+* i make random projects when i'm bored
+* i play games (fps, story-driven stuff mostly)
+
+---
+
+## note
+
+some of these projects are just experiments.
+don’t expect everything to be super serious.
