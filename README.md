@@ -7,7 +7,7 @@ yazılım geliştirme bölümü bir lise öğrencisiyim.
 
 ## 🛠️ yaptıklarım
 
-### 🎭 troll intro sitesi
+### 🎭 troll tanıtım sitesi
 ciddiye alınacak bir şey değil.  
 sadece interaktif, biraz saçma, eğlenceli bir şey. görünce anlarsın.
 
