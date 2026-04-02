@@ -1,48 +1,41 @@
-# yo, i'm berat 👋
+# merhaba, ben berat 👋
 
-software dev student.
-mostly into web stuff and a bit of cybersecurity.
-sometimes i build useful things, sometimes it's just random fun.
+yazılım geliştirme bölümü bir lise öğrencisiyim.  
+çoğunlukla web, biraz siber güvenlik — bazen işe yarayan şeyler çıkıyor, bazen sadece kafama takılan bir şey.
 
 ---
 
-## stuff i made
+## 🛠️ yaptıklarım
 
-### 🎭 troll intro website
-
-not meant to be serious at all.
-just a fun interactive thing.
+### 🎭 troll intro sitesi
+ciddiye alınacak bir şey değil.  
+sadece interaktif, biraz saçma, eğlenceli bir şey. görünce anlarsın.
 
 ---
 
 ### 🔐 goodpass
+basit ama dürüst bir şifre güç kontrolcüsü.
 
-simple password strength checker.
-
-* doesn't store your password
-* doesn't send it anywhere
-* just does its job
+- şifreni **kaydetmiyor**
+- hiçbir yere **göndermiyor**
+- sadece işini yapıyor
 
 ---
 
 ### 🌐 site clarity checker
+url at, güvenli mi baksın.
 
-drop a url, get a security score.
-
-* helps you figure out if a site is sketchy
-* simple scoring, nothing complicated
-
----
-
-## about me
-
-* kinda into cybersecurity
-* i make random projects when i'm bored
-* i play games (fps, story-driven stuff mostly)
+- sitenin şüpheli olup olmadığını anlamana yardımcı olur
+- sade puanlama, gereksiz karmaşıklık yok
+- açıklamalı tespitler
 
 ---
 
-## note
+## ben kimim
 
-some of these projects are just experiments.
-don’t expect everything to be super serious.
+siber güvenliğe meraklı bir yazılım geliştirme öğrencisiyim.  
+sıkılınca proje üretiyorum, çoğu zaman da işe yarıyor.
+
+---
+
+> bazı projeler sadece deney niteliğinde — her şeyin süper ciddi olmasını bekleme.
