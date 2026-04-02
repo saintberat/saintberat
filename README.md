@@ -1,6 +1,6 @@
 # merhaba, ben berat 👋
 
-yazılım geliştirme bölümü bir lise öğrencisiyim.  
+yazılım geliştirme bölümü okuyan bir lise öğrencisiyim.  
 çoğunlukla web, biraz siber güvenlik — bazen işe yarayan, bazen sadece kafama göre şeyler yapıyorum.
 
 ---
