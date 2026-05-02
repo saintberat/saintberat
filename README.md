@@ -31,6 +31,18 @@ url at, güvenli mi baksın.
 
 ---
 
+### 🛡️ aegis (file integrity monitor)
+arka planda sessiz çalışan, ama biri dosyaya dokununca hemen haber veren bir şey.
+
+- dosyaların hash’ini alır (SHA-256)
+- değişiklik olursa anında fark eder
+- gerçek zamanlı log tutar
+- gereksiz yere sistemi yormaz
+
+kısaca: bir şey değişirse “ben gördüm” diyen uygulama.
+
+---
+
 ## ben kimim
 
 siber güvenliğe meraklı bir yazılım geliştirme öğrencisiyim.  
