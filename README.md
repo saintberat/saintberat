@@ -39,7 +39,6 @@ arka planda sessiz çalışan, ama biri dosyaya dokununca hemen haber veren bir 
 - gerçek zamanlı log tutar
 - gereksiz yere sistemi yormaz
 
-kısaca: bir şey değişirse “ben gördüm” diyen uygulama.
 
 ---
 
