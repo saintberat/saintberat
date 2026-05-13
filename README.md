@@ -33,6 +33,8 @@ siber güvenliğe meraklı bir yazılım geliştirme öğrencisiyim.
 sıkılınca proje üretiyorum, çoğu zaman da işe yarıyor.
 
 projelerimi geliştirirken YouTube, forumlar ve çeşitli web kaynaklarından sıkça yararlanıyorum.
+özellikle bazı index, css ve benzeri kısımlarda yapay zeka destekli araçlardan da faydalanıyorum.
+
 öğrenerek ve deneye deneye ilerlemeyi seviyorum.
 
 ---
