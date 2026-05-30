@@ -8,11 +8,6 @@ yazılım geliştirme bölümü okuyan bir lise öğrencisiyim.
 
 🛠️ yaptıklarım
 
-🎭 troll tanıtım sitesi
-
-ciddiye alınacak bir şey değil.
-sadece interaktif, biraz saçma, eğlenceli bir şey. görünce anlarsın.
-
 
 ---
 
