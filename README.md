@@ -44,21 +44,6 @@ gerçek zamanlı log tutar
 
 sistemi yormaz
 
----
-
-✍️ camwrite
-
-fareyi bir kenara bırakıp havaya çizmeye yarayan deneysel bir proje.
-
-kamera üzerinden el hareketlerini takip eder
-
-işaret parmağıyla çizim yapar
-
-el hareketleriyle renk değiştirebilir
-
-belirli hareketlerle tuvali temizleyebilir
-
-MediaPipe ve OpenCV kullanılarak geliştirildi
 
 ---
 
