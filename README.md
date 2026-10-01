@@ -28,7 +28,7 @@ felsefe: "sıkılınca proje üretiyorum, çoğu zaman da işe yarıyor."
 
 <br/>
 
-## `> tech_stack` ⚡
+## `> tech_stack` 
 
 <div align="center">
 
@@ -136,7 +136,7 @@ felsefe: "sıkılınca proje üretiyorum, çoğu zaman da işe yarıyor."
 
 <br/><br/>
 
-> *bazı projeler sadece deney niteliğinde.* ⚗️
+> *bazı projeler sadece deney niteliğinde.* 
 
 <br/>
 
