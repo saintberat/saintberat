@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=saintberat&fontSize=70&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=yaz%C4%B1l%C4%B1m%20%C2%B7%20siber%20g%C3%BCvenlik%20%C2%B7%20deney&descSize=18&descColor=8b949e&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Berat&fontSize=70&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=yaz%C4%B1l%C4%B1m%20geli%C5%9Ftirme%20%C3%B6%C4%9Frencisi&descSize=18&descColor=8b949e&descAlignY=55" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=merhaba%2C+ben+berat+%F0%9F%91%8B;yaz%C4%B1l%C4%B1m+geli%C5%9Ftirme+%C3%B6%C4%9Frencisi;s%C4%B1k%C4%B1l%C4%B1nca+proje+%C3%BCretiyorum+%F0%9F%9A%80;%C3%A7o%C4%9Fu+zaman+da+i%C5%9Fe+yar%C4%B1yor+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&https://127.0.0.1:55800/static/artifacts/c860d504-f703-4a95-846c-c7f96cfb1264/.user_uploaded/media_1790874364971.png?csrf=0fe03d8b-f8f9-4f6d-8239-417b72d73c80duration=3000&pause=5000&color=58A6FF&center=true&vCenter=true&repeat=false&width=435&height=45&lines=merhaba%2C+ben+berat+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -36,7 +36,6 @@ felsefe: "sıkılınca proje üretiyorum, çoğu zaman da işe yarıyor."
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
@@ -112,11 +111,8 @@ felsefe: "sıkılınca proje üretiyorum, çoğu zaman da işe yarıyor."
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saintberat&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="180" alt="Top Languages" />
 
-<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saintberat&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area_color=1f6feb&area=true&hide_border=true&custom_title=contribution%20graph" width="95%" alt="Contribution Graph" />
 
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=saintberat&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1f6feb&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" />
 
