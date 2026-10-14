@@ -9,6 +9,10 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-saintberat-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saintberat)
+&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-510nx-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-lowkberat-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lowkberat)
 
 </div>
 
@@ -32,15 +36,9 @@ felsefe: "sıkılınca proje üretiyorum, çoğu zaman da işe yarıyor."
 
 <div align="center">
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,js,ts,html,css,firebase,postgres,git" alt="Tech Stack" />
+</a>
 
 </div>
 
@@ -107,9 +105,9 @@ felsefe: "sıkılınca proje üretiyorum, çoğu zaman da işe yarıyor."
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saintberat&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb" height="180" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saintberat&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="180" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=saintberat&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb" height="175" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saintberat&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="175" alt="Top Languages" />
 
 <br/><br/>
 
@@ -117,6 +115,19 @@ felsefe: "sıkılınca proje üretiyorum, çoğu zaman da işe yarıyor."
 
 </div>
 
+<br/>
+
+## `> snake.exe` 🐍
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saintberat/saintberat/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saintberat/saintberat/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saintberat/saintberat/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
 
 <br/>
 
