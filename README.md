@@ -50,7 +50,7 @@ felsefe: "sıkılınca proje üretiyorum, çoğu zaman da işe yarıyor."
 
 <table>
 <tr>
-  <td width="50%" valign="top">
+<td width="50%" valign="top">
 
 ### 🤖 [jubbio docs for llms](https://github.com/saintberat/jubbio-docs-for-llms)
 > yapay zeka ve llm'ler için optimize edilmiş geliştirici dokümantasyonu.
@@ -60,6 +60,7 @@ felsefe: "sıkılınca proje üretiyorum, çoğu zaman da işe yarıyor."
 - prompt ve ajan entegrasyonuna hazır
 - güncel jubbio ekosistemi
 
+</td>
 <td width="50%" valign="top">
 
 ### ⚡ [velox](https://github.com/saintberat/velox)
@@ -70,6 +71,8 @@ felsefe: "sıkılınca proje üretiyorum, çoğu zaman da işe yarıyor."
 - GPU donanım hızlandırma ve akıllı kare temizleme
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🛠️ [windows debloater](https://github.com/saintberat/WinDebloat)
@@ -81,8 +84,6 @@ felsefe: "sıkılınca proje üretiyorum, çoğu zaman da işe yarıyor."
 - tek tıkla çalışan sade arayüz
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🛡️ [aegis](https://github.com/saintberat/aegis)
@@ -94,6 +95,8 @@ felsefe: "sıkılınca proje üretiyorum, çoğu zaman da işe yarıyor."
 - sistemi yormaz
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🌐 [site clarity checker](https://github.com/saintberat/siteclaritychecker)
@@ -105,8 +108,6 @@ felsefe: "sıkılınca proje üretiyorum, çoğu zaman da işe yarıyor."
 - tarayıcı üzerinden hızlı analiz
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🔐 [goodpass](https://github.com/saintberat/goodpass)
@@ -118,13 +119,7 @@ felsefe: "sıkılınca proje üretiyorum, çoğu zaman da işe yarıyor."
 - sadece işini yapıyor
 
 </td>
-
 </tr>
-
-
-</td>
-
-
 </table>
 
 </div>
