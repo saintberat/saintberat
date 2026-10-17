@@ -110,7 +110,7 @@ felsefe: "sıkılınca proje üretiyorum, çoğu zaman da işe yarıyor."
 </td>
 
 </tr>
-<tr>
+
 <td width="50%" valign="top">
 
 ### 🤖 [jubbio docs for llms](https://github.com/saintberat/jubbio-docs-for-llms)
@@ -123,7 +123,7 @@ felsefe: "sıkılınca proje üretiyorum, çoğu zaman da işe yarıyor."
 
 </td>
 
-</tr>
+
 </table>
 
 </div>
