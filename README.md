@@ -52,35 +52,13 @@ felsefe: "sıkılınca proje üretiyorum, çoğu zaman da işe yarıyor."
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 [goodpass](https://github.com/saintberat/goodpass)
-> basit ama dürüst bir şifre güç kontrolcüsü.
+### ⚡ [velox](https://github.com/saintberat/velox)
+> yapay zeka destekli hareket bulanıklığı (motion blur) aracı.
 
-- şifreni kaydetmiyor
-- hiçbir yere göndermiyor
-- sadece işini yapıyor
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 [site clarity checker](https://github.com/saintberat/siteclaritychecker)
-> url at, güvenli mi baksın.
-
-- sitenin şüpheli olup olmadığını anlar
-- sade puanlama, gereksiz karmaşıklık yok
-- açıklamalı tespitler
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ [aegis](https://github.com/saintberat/aegis)
-> dosya bütünlük monitörü.
-
-- dosyaların hash'ini alır (SHA-256)
-- değişiklik olursa anında fark eder
-- gerçek zamanlı log tutar
-- sistemi yormaz
+- sinematik ve doğal hareket bulanıklığı
+- RIFE & SVP ile ara kare enterpolasyonu
+- GPU donanım hızlandırma ve akıllı kare temizleme
+- developed by exo
 
 </td>
 <td width="50%" valign="top">
@@ -92,6 +70,77 @@ felsefe: "sıkılınca proje üretiyorum, çoğu zaman da işe yarıyor."
 - telemetriyi devre dışı bırakır
 - cortana'yı kapatır
 - tek tıkla çalışan sade arayüz
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ [aegis](https://github.com/saintberat/aegis)
+> dosya bütünlük monitörü (FIM).
+
+- dosyaların hash'ini alır (SHA-256)
+- değişiklik olursa anında fark eder
+- gerçek zamanlı log tutar
+- sistemi yormaz
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [site clarity checker](https://github.com/saintberat/siteclaritychecker)
+> url at, güvenli mi baksın.
+
+- sitenin şüpheli olup olmadığını anlar
+- sade puanlama, gereksiz karmaşıklık yok
+- açıklamalı güvenlik tespitleri
+- tarayıcı üzerinden hızlı analiz
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 [goodpass](https://github.com/saintberat/goodpass)
+> basit ama dürüst bir şifre güç kontrolcüsü.
+
+- şifreni kaydetmiyor
+- hiçbir yere göndermiyor
+- tamamen istemci taraflı çalışır
+- sadece işini yapıyor
+
+</td>
+<td width="50%" valign="top">
+
+### ⏱️ [commit-O](https://github.com/saintberat/commit-O)
+> github katkı grafiği ve görev zamanlayıcı.
+
+- otomatik commit ve görev zamanlayıcı
+- powershell tabanlı hafif altyapı
+- aktivite grafiğini canlı tutar
+- esnek zamanlama seçenekleri
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [jubbio docs for llms](https://github.com/saintberat/jubbio-docs-for-llms)
+> yapay zeka ve llm'ler için optimize edilmiş geliştirici dokümantasyonu.
+
+- llm dostu temiz markdown formatı
+- rest api, gateway ve sdk referansı
+- prompt ve ajan entegrasyonuna hazır
+- güncel jubbio ekosistemi
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 [daha fazlası yolda...](https://github.com/saintberat?tab=repositories)
+> yeni fikirler, deneyler ve açık kaynak araçlar.
+
+- sürekli yeni şeyler deneniyor
+- açık kaynak geliştirme devam ediyor
+- profili ve depoları takipte kal
 
 </td>
 </tr>
