@@ -63,18 +63,6 @@ felsefe: "sıkılınca proje üretiyorum, çoğu zaman da işe yarıyor."
 </td>
 <td width="50%" valign="top">
 
-### ⚡ [velox](https://github.com/saintberat/velox)
-> yapay zeka destekli hareket bulanıklığı (motion blur) aracı.
-
-- sinematik ve doğal hareket bulanıklığı
-- RIFE & SVP ile ara kare enterpolasyonu
-- GPU donanım hızlandırma ve akıllı kare temizleme
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🛠️ [windows debloater](https://github.com/saintberat/WinDebloat)
 > windows 10/11 için sistem iyileştirme aracı.
 
@@ -84,6 +72,8 @@ felsefe: "sıkılınca proje üretiyorum, çoğu zaman da işe yarıyor."
 - tek tıkla çalışan sade arayüz
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🛡️ [aegis](https://github.com/saintberat/aegis)
@@ -95,8 +85,6 @@ felsefe: "sıkılınca proje üretiyorum, çoğu zaman da işe yarıyor."
 - sistemi yormaz
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🌐 [site clarity checker](https://github.com/saintberat/siteclaritychecker)
@@ -108,6 +96,8 @@ felsefe: "sıkılınca proje üretiyorum, çoğu zaman da işe yarıyor."
 - tarayıcı üzerinden hızlı analiz
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🔐 [goodpass](https://github.com/saintberat/goodpass)
@@ -117,6 +107,9 @@ felsefe: "sıkılınca proje üretiyorum, çoğu zaman da işe yarıyor."
 - hiçbir yere göndermiyor
 - tamamen istemci taraflı çalışır
 - sadece işini yapıyor
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
