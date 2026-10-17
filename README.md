@@ -58,7 +58,6 @@ felsefe: "sıkılınca proje üretiyorum, çoğu zaman da işe yarıyor."
 - sinematik ve doğal hareket bulanıklığı
 - RIFE & SVP ile ara kare enterpolasyonu
 - GPU donanım hızlandırma ve akıllı kare temizleme
-- developed by exo
 
 </td>
 <td width="50%" valign="top">
