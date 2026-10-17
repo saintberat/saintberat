@@ -50,6 +50,16 @@ felsefe: "sıkılınca proje üretiyorum, çoğu zaman da işe yarıyor."
 
 <table>
 <tr>
+  <td width="50%" valign="top">
+
+### 🤖 [jubbio docs for llms](https://github.com/saintberat/jubbio-docs-for-llms)
+> yapay zeka ve llm'ler için optimize edilmiş geliştirici dokümantasyonu.
+
+- llm dostu temiz markdown formatı
+- rest api, gateway ve sdk referansı
+- prompt ve ajan entegrasyonuna hazır
+- güncel jubbio ekosistemi
+
 <td width="50%" valign="top">
 
 ### ⚡ [velox](https://github.com/saintberat/velox)
@@ -111,15 +121,6 @@ felsefe: "sıkılınca proje üretiyorum, çoğu zaman da işe yarıyor."
 
 </tr>
 
-<td width="50%" valign="top">
-
-### 🤖 [jubbio docs for llms](https://github.com/saintberat/jubbio-docs-for-llms)
-> yapay zeka ve llm'ler için optimize edilmiş geliştirici dokümantasyonu.
-
-- llm dostu temiz markdown formatı
-- rest api, gateway ve sdk referansı
-- prompt ve ajan entegrasyonuna hazır
-- güncel jubbio ekosistemi
 
 </td>
 
