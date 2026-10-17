@@ -108,17 +108,7 @@ felsefe: "sıkılınca proje üretiyorum, çoğu zaman da işe yarıyor."
 - sadece işini yapıyor
 
 </td>
-<td width="50%" valign="top">
 
-### ⏱️ [commit-O](https://github.com/saintberat/commit-O)
-> github katkı grafiği ve görev zamanlayıcı.
-
-- otomatik commit ve görev zamanlayıcı
-- powershell tabanlı hafif altyapı
-- aktivite grafiğini canlı tutar
-- esnek zamanlama seçenekleri
-
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
@@ -132,16 +122,7 @@ felsefe: "sıkılınca proje üretiyorum, çoğu zaman da işe yarıyor."
 - güncel jubbio ekosistemi
 
 </td>
-<td width="50%" valign="top">
 
-### 🚀 [daha fazlası yolda...](https://github.com/saintberat?tab=repositories)
-> yeni fikirler, deneyler ve açık kaynak araçlar.
-
-- sürekli yeni şeyler deneniyor
-- açık kaynak geliştirme devam ediyor
-- profili ve depoları takipte kal
-
-</td>
 </tr>
 </table>
 
