@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Berat&fontSize=70&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=yaz%C4%B1l%C4%B1m%20geli%C5%9Ftirme%20%C3%B6%C4%9Frencisi&descSize=18&descColor=8b949e&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Berat&fontSize=70&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=software%20development%20student&descSize=18&descColor=8b949e&descAlignY=55" width="100%" />
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=5000&color=58A6FF&center=true&vCenter=true&repeat=false&width=435&height=45&lines=merhaba%2C+ben+berat+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=5000&color=58A6FF&center=true&vCenter=true&repeat=false&width=435&height=45&lines=hello%2C+i'm+berat+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -21,13 +21,13 @@
 ## `> whoami` 🧑‍💻
 
 ```yaml
-ad: berat
-rol: yazılım geliştirme öğrencisi
-ilgi_alanlari:
-  - web geliştirme
-  - siber güvenlik
-  - sistem araçları
-felsefe: "sıkılınca proje üretiyorum, çoğu zaman da işe yarıyor."
+name: berat
+role: software development student
+interests:
+  - web development
+  - cybersecurity
+  - system tools
+philosophy: "when i get bored i build projects, and most of the time they work."
 ```
 
 <br/>
@@ -44,7 +44,7 @@ felsefe: "sıkılınca proje üretiyorum, çoğu zaman da işe yarıyor."
 
 <br/>
 
-## `> ls ~/projeler` 🛠️
+## `> ls ~/projects` 🛠️
 
 <div align="center">
 
@@ -53,23 +53,23 @@ felsefe: "sıkılınca proje üretiyorum, çoğu zaman da işe yarıyor."
 <td width="50%" valign="top">
 
 ### 🤖 [jubbio docs for llms](https://github.com/saintberat/jubbio-docs-for-llms)
-> yapay zeka ve llm'ler için optimize edilmiş geliştirici dokümantasyonu.
+> developer documentation optimized for artificial intelligence and LLMs.
 
-- llm dostu temiz markdown formatı
-- rest api, gateway ve sdk referansı
-- prompt ve ajan entegrasyonuna hazır
-- güncel jubbio ekosistemi
+- llm-friendly clean markdown format
+- rest api, gateway, and sdk reference
+- ready for prompt and agent integration
+- up-to-date jubbio ecosystem
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛠️ [windows debloater](https://github.com/saintberat/WinDebloat)
-> windows 10/11 için sistem iyileştirme aracı.
+> system optimization tool for windows 10/11.
 
-- gereksiz uygulamaları kaldırır
-- telemetriyi devre dışı bırakır
-- cortana'yı kapatır
-- tek tıkla çalışan sade arayüz
+- removes unnecessary bloatware apps
+- disables telemetry and tracking services
+- turns off cortana
+- clean one-click user interface
 
 </td>
 </tr>
@@ -77,23 +77,23 @@ felsefe: "sıkılınca proje üretiyorum, çoğu zaman da işe yarıyor."
 <td width="50%" valign="top">
 
 ### 🛡️ [aegis](https://github.com/saintberat/aegis)
-> dosya bütünlük monitörü (FIM).
+> file integrity monitor (FIM).
 
-- dosyaların hash'ini alır (SHA-256)
-- değişiklik olursa anında fark eder
-- gerçek zamanlı log tutar
-- sistemi yormaz
+- hashes files with SHA-256 in real time
+- detects file changes instantly
+- keeps live audit logs
+- minimal system resource footprint
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌐 [site clarity checker](https://github.com/saintberat/siteclaritychecker)
-> url at, güvenli mi baksın.
+> drop a url, check if it's safe.
 
-- sitenin şüpheli olup olmadığını anlar
-- sade puanlama, gereksiz karmaşıklık yok
-- açıklamalı güvenlik tespitleri
-- tarayıcı üzerinden hızlı analiz
+- detects suspicious websites and threats
+- clear risk scoring, zero clutter
+- transparent security breakdown
+- fast browser-based analysis
 
 </td>
 </tr>
@@ -101,12 +101,12 @@ felsefe: "sıkılınca proje üretiyorum, çoğu zaman da işe yarıyor."
 <td colspan="2" align="center" valign="top">
 
 ### 🔐 [goodpass](https://github.com/saintberat/goodpass)
-> basit ama dürüst bir şifre güç kontrolcüsü.
+> a simple yet honest password strength checker.
 
-- şifreni kaydetmiyor
-- hiçbir yere göndermiyor
-- tamamen istemci taraflı çalışır
-- sadece işini yapıyor
+- never saves your password
+- never transmits data anywhere
+- runs 100% client-side
+- just gets the job done
 
 </td>
 </tr>
@@ -141,7 +141,7 @@ felsefe: "sıkılınca proje üretiyorum, çoğu zaman da işe yarıyor."
 
 <br/><br/>
 
-<p><em>bazı projeler sadece deney niteliğinde.</em></p>
+<p><em>some projects are just experiments.</em></p>
 
 <br/>
 
