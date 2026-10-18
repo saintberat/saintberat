@@ -98,7 +98,7 @@ felsefe: "sıkılınca proje üretiyorum, çoğu zaman da işe yarıyor."
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 🔐 [goodpass](https://github.com/saintberat/goodpass)
 > basit ama dürüst bir şifre güç kontrolcüsü.
