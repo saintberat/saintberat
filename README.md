@@ -10,10 +10,11 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-saintberat-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saintberat)
 &nbsp;
+[![Google Dev](https://img.shields.io/badge/Google_Dev-saintberat-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/saintberat)
+&nbsp;
 [![Discord](https://img.shields.io/badge/Discord-510nx-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 &nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-lowkberat-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lowkberat)
-
 </div>
 
 <br/>
