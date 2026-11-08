@@ -121,9 +121,9 @@ philosophy: "when i get bored i build projects, and most of the time they work."
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saintberat&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&ring_color=1f6feb" height="175" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saintberat&theme=github_dark" height="175" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saintberat&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="175" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saintberat&theme=github_dark" height="175" alt="Top Languages" />
 
 <br/><br/>
 
